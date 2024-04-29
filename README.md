@@ -2,10 +2,11 @@
 
 FoodFolio is a website for all-in-one solution to easy grocery management and healthy eating. With user-friendly interface and powerful features, users can effortlessly track groceries, plan meals and achieve nutritional goals. 
 
+## Webiste Link 👩🏻‍💻
+https://foodfolio-7d5f4.web.app
+
 
 ## Recommended IDE Setup
-
-
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 
