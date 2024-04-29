@@ -1,7 +1,7 @@
-# FoodFolio
+# FoodFolio 🛒🌳🍅 !
 
+FoodFolio is a website for all-in-one solution to easy grocery management and healthy eating. With user-friendly interface and powerful features, users can effortlessly track groceries, plan meals and achieve nutritional goals. 
 
-This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
